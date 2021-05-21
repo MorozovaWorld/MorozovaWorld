@@ -1,4 +1,5 @@
 👋 Hi there
+
 I’m Ekaterina, a Moscow-based beginner web developer inspired by the ability to be connected to the globe web community 🌏
 
 - 💭 I am interested in digital accessibility and creating convenient, safe and effective applications using state-of-the-art technologies. 
